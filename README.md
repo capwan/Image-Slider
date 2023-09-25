@@ -8,6 +8,6 @@ Just open `index.html`
 
 You can use buttons for slide next or previous.
 
-**[Live Demo](https://capwan.github.io/Image-Slider/))**
+**[Live Demo](https://capwan.github.io/Image-Slider/)**
 
 
