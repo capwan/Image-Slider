@@ -7,7 +7,7 @@ const Slider = () => {
 
     const handleClickNext = () =>{
         let items = slideRef.querySelectorAll('.item');
-        slideRef.appendChild(items[0]);
+        slideRef.appendChild(items[1]);
     };
 
     const handleClickPrev = () => {
